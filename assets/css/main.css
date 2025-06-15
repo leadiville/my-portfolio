@@ -514,7 +514,6 @@ section,
 # Global Section Titles
 --------------------------------------------------------------*/
 .section-title {
-  padding-bottom: 60px;
   position: relative;
   /* border: 2px solid black; */
 }
